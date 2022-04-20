@@ -10,6 +10,8 @@ import board
 import adafruit_bme280.advanced as adafruit_bme280
 import serial
 
+#This is a test push. F U Phuah
+
 HC12 = serial.Serial(
     port = '/dev/ttyS0',
     baudrate = 9600,
